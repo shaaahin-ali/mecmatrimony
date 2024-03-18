@@ -1,0 +1,9 @@
+.feed{display: flex;
+justify-content: center;
+align-items: start;
+height: fit-content;
+margin-top: 6px;
+width: 100vw;
+flex-wrap: wrap;
+gap: 2rem;
+}
